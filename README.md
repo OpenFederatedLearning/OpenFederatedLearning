@@ -1,7 +1,7 @@
 # OpenFederatedLearning
 Intro for OpenFederatedLearning
 
-- Faderated AI Technology Enabler, Webank Fin tech , https://github.com/OpenFederatedLearning/FATE  https://github.com/OpenFederatedLearning/eggroll 
+- Federated AI Technology Enabler, Webank Fin tech , https://github.com/OpenFederatedLearning/FATE  https://github.com/OpenFederatedLearning/eggroll 
 - FedML, USC, https://github.com/OpenFederatedLearning/FedML
 - Fedlearner, Bytedance, https://github.com/OpenFederatedLearning/fedlearner 
 - Harmonia, AL Labs Taiwan, https://github.com/OpenFederatedLearning/harmonia 
