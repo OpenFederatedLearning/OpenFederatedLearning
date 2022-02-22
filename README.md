@@ -8,4 +8,4 @@ Intro for OpenFederatedLearning
 - PaddleFL, Baidu, https://github.com/OpenFederatedLearning/PaddleFL 
 - PySyft, OpenMined,  https://github.com/OpenFederatedLearning/PySyft
 - Tensorflow Federated, Google, https://github.com/OpenFederatedLearning/federated
-- 9NFL, Jingdong, https://github.com/jd-9n/9nfl
+- 9NFL, Jingdong, https://github.com/OpenFederatedLearning/9nfl
