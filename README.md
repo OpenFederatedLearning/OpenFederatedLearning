@@ -9,3 +9,14 @@ Intro for OpenFederatedLearning
 - PySyft, OpenMined,  https://github.com/OpenFederatedLearning/PySyft
 - Tensorflow Federated, Google, https://github.com/OpenFederatedLearning/federated
 - 9NFL, Jingdong, https://github.com/OpenFederatedLearning/9nfl
+
+
+Privacy preserving technique allows sharing sensitive personal information while preserving users' privacy. Below are the technologies used in Federated Learning:
+
+- Anonymization (weakest)
+- Differential Privacy
+- Fully Homomorphic Encryption (FHE)
+- Secure Multi-Party Computation (MPC)
+- Zero Knowledge Proof (e.g. Blockchain)
+- Confidential Computing through TEE (e.g. SGX and TrustZone)
+
